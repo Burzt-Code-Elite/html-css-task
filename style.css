@@ -1,0 +1,27 @@
+#nav {
+  text-align: center;
+}
+
+#signin-container {
+  margin-left: 20%;
+  margin-right: 20%;
+  text-align: center;
+}
+
+#password {
+  margin-top: 1rem;
+  margin-bottom: 2rem;
+}
+
+#link-nav {
+  display: grid;
+  grid-template-columns: 50% 50%;
+  text-align: center; 
+}
+
+#main-card {
+  margin-top: 2rem;
+  text-align: center;
+  margin-left: 15%;
+  margin-right: 15%;
+}
